@@ -1,0 +1,10 @@
+#loan-form input{
+    box-shadow: none;
+}
+#loading{
+    background: #FFFFFF;
+}
+
+#loading, #loan-result{
+    display: none;
+}
